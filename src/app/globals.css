@@ -19,3 +19,18 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(100vh); /* Start from the bottom of the page */
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-100vh); /* End at the top of the page */
+    opacity: 0;
+  }
+}
+
+.animate-float {
+  animation: floatUp 8s linear infinite;
+}
