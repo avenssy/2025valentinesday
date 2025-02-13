@@ -86,7 +86,7 @@ export default function Home() {
         src="/valentines-day-title.png"
         width={500}
         height={500}
-        className="mb-[50px]"
+        className="mb-[50px] lg:w-[500px] lg:h-[335.85px] w-[350px] h-[250.5px]"
         alt="web page title"
       />
 
