@@ -68,16 +68,16 @@ export default function LoveLetter() {
           alt="bear heart"
           className="absolute w-[100px] h-[83.5px] lg:w-[200px] lg:h-[167.81px] lg:bottom-[50px] lg:right-[350px] invisible lg:visible"
         />
-        <p className="text-[20px] lg:text-[35px] mb-[30px]">Happy Valentine's Day, bebi!</p>
+        <p className="text-[20px] lg:text-[35px] mb-[30px]">Happy Valentine&apos;s Day, bebi!</p>
         <p>You are one of the best things in the world to me!</p>
         <p>I love you more than Japanese food.</p>
         <p>I love you more than sinigang.</p>
         <p>I love you more than the whole wide world :3</p>
-        <p>I hope today's the last LDR V-Day that we will have.</p>
-        <p>I'm looking forward to spend it with you there.</p>
+        <p>I hope today&apos;s the last LDR V-Day that we will have.</p>
+        <p>I&apos;m looking forward to spend it with you there.</p>
         <p>I love you, and I miss you. ❤️</p>
         <p>Hug you soon, and hang out soon</p>
-        <p>I can't wait to be with you :3</p>
+        <p>I can&apos;t wait to be with you :3</p>
       </div>
     </div>
   );

@@ -26,7 +26,7 @@ export default function Game() {
       [0, 4, 8], [2, 4, 6]             // Diagonals
     ];
 
-    for (let [a, b, c] of lines) {
+    for (const [a, b, c] of lines) {
       if (board[a] && board[a] === board[b] && board[a] === board[c]) {
         setWinner(board[a]);
         return;
