@@ -18,7 +18,7 @@ export default function LoveLetter() {
         Exit
       </button>
 
-      <div className="h-screen w-full text-white flex flex-col items-center p-[20px] lg:p-[100px] text-[15px] lg:text-[25px] justify-center">
+      <div className="h-screen w-full text-black flex flex-col items-center p-[20px] lg:p-[100px] text-[15px] lg:text-[25px] justify-center">
         <Image
           src="/cat-hug.gif"
           width={100}
@@ -68,13 +68,13 @@ export default function LoveLetter() {
           alt="bear heart"
           className="absolute w-[100px] h-[83.5px] lg:w-[200px] lg:h-[167.81px] lg:bottom-[50px] lg:right-[350px] invisible lg:visible"
         />
-        <p className="text-[20px] lg:text-[35px] mb-[30px]">Happy Valentine&apos;s Day, bebi!</p>
+        <p className="text-[20px] text-black lg:text-[35px] mb-[30px]">Happy Valentine&apos;s Day, bebi!</p>
         <p>You are one of the best things in the world to me!</p>
         <p>I love you more than Japanese food.</p>
         <p>I love you more than sinigang.</p>
         <p>I love you more than the whole wide world :3</p>
         <p>I hope today&apos;s the last LDR V-Day that we will have.</p>
-        <p>I&apos;m looking forward to spend it with you there.</p>
+        <p>I&apos;m looking forward to spending it with you there.</p>
         <p>I love you, and I miss you. ❤️</p>
         <p>Hug you soon, and hang out soon</p>
         <p>I can&apos;t wait to be with you :3</p>
